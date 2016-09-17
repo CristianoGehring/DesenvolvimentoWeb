@@ -1,2 +1,2 @@
 # DesenvolvimentoWeb
-Exemplo usados em Aula
+Exemplo usados na disciplina de Desenvolvimento Web
